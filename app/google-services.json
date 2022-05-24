@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388836617815",
+    "project_id": "equipo-firebase-fde4e",
+    "storage_bucket": "equipo-firebase-fde4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388836617815:android:392121a2f83b7e78083d12",
+        "android_client_info": {
+          "package_name": "com.example.equipo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388836617815-m05bbd1has0ddihia3j1faoq1dca17e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWHMUcPmtgIb35P5Cu4dfSlT0zGjJkJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388836617815-m05bbd1has0ddihia3j1faoq1dca17e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
